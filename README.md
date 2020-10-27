@@ -11,11 +11,8 @@ Combined size of records: 0.24million(after cleaning)
 Feature Engineering techniques used:
 
 Bag-of-words model using Term frequency
-
 Bag-of-words model using TF-IDF
-
 Word Embeddings using GloVe
-
 Language modelling with BERT
 
 
